@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<h1><center>Todo lo puede explicar la f&iacute;sica &#191;no&#63;</center></h1>
+<script language="JavaScript">  var estado=true;  setTimeout("ver()",450);  function ver (){  estado=!estado;  if(estado==true)  texto1.style.visibility="visible";  else  texto1.style.visibility="hidden";  setTimeout("ver()",450);  }  </script><p align="center" id="texto1"  style="visibility:visible"><font face="Arial, Helvetica,  sans-serif size="3">&iexcl;Obviooo&#33;</font></p>
+<body background="https://i.pinimg.com/originals/e0/2f/fe/e02ffed59c2c5075bd70a6b422cccf2f.jpg">
+<p><strong>La explicaci&oacuten f&iacutesica para el v&iacutedeo del avi&oacuten parado en el cielo.</strong></p>
+<p style="text-align:justify">Unos pasajeros de un coche captaron las im&aacutegenes de un avi&oacuten que parec&iacutea estar quieto en pleno vuelo.
+Las im&aacutegenes tomadas por un videoaficionado en Mosc&uacute, Rusia, mostraban a un avi&oacuten suspendido en pleno 
+vuelo momentos antes de llegar a tierra en el aeropuerto internacional de Mosc&uacute-Vn&uacutekovo. &#191;Es posible que 
+se pueda quedar quieto en el aire&#63; &#191;Se trata de un montaje o un truco&#63;<strong> La explicaci&oacuten la da la f&iacutesica.</strong></p>
+<center><iframe src="https://www.20minutos.es/videoplayer/2506/b/43470" data-player="jwplayer" width="655" height="368" frameborder="0" scrolling="no" style="border:0; overflow:auto;" allowfullscreen=""></iframe></center>
+<p style="text-align:justify">Un avi&oacuten toma una velocidad de 300 km/hora cuando se dispone a aterrizar en pista. Para que se quede quieto en 
+el aire tendr&iacutea que ser por una r&aacutefaga de viento de 300 km/h y que, adem&aacutes, fuera constante. Sin embargo, esa 
+velocidad es m&aacutes propia de vientos huracanados, lo que no se corresponde con el tiempo que vemos en las im&aacutegenes.</p>
+<p style="text-align:justify">Otro aspecto a destacar es que el v&iacutedeo es grabado desde un coche en movimiento por una autopista a una velocidad 
+de unos 100 km/h en sentido contrario al que va el avi&oacuten. El principio de la velocidad relativa entre dos cuerpos es 
+el valor de la velocidad de cada uno de ellos tal como la medir&iacutea un observador situado en otro lado.</p>
+<p style="text-align:justify">En este caso, el observador est&aacute en un coche, que va a una cierta velocidad, mientras que el avi&oacuten va en otra 
+direcci&oacuten y con otra velocidad. La diferencia entre ambos no es muy grande, por lo que los usuarios del coche que 
+est&aacuten grabando tienen la impresi&oacuten de que el avi&oacuten est&oacute inm&oacutevil.</p>
+</body>
+</html>
